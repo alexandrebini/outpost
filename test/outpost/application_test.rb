@@ -221,3 +221,4 @@ describe Outpost::Application do
     end
   end
 end
+
